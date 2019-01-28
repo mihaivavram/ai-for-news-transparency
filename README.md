@@ -1,0 +1,1 @@
+# Classifier Tool for AI-driven detection of fake and biased news transparent and understandable to journalists and the public

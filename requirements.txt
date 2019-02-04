@@ -1,0 +1,9 @@
+pandas
+re
+string
+unicodedata
+nltk
+contractions
+inflect
+bs4
+jupyter

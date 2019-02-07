@@ -7,3 +7,4 @@ contractions
 inflect
 bs4
 jupyter
+vaderSentiment
